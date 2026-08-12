@@ -16,8 +16,5 @@
 
 ### 📊 GitHub Analytics
 
-![Profile Views](https://komarev.com/ghpvc/?username=YoussefAli88&color=blueviolet&style=for-the-badge)
-
-![Top Languages](https://github-readme-stats.pw/api/top-langs/?username=YoussefAli88&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoussefAli88&theme=tokyonight)
