@@ -16,7 +16,7 @@
 
 ### 📊 GitHub Analytics
 
-![GitHub Streak](https://github-readme-streak-stats.pw/?user=YoussefAli07&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YoussefAli88&theme=react-dark&bg_color=0D1117&hide_border=true&line=36BCF7&point=ffffff)
 
 ---
 ### 📫 Connect With Me
