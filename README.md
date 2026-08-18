@@ -16,7 +16,10 @@
 
 ### 📊 GitHub Analytics
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YoussefAli07&theme=react-dark&bg_color=0D1117&hide_border=true&line=36BCF7&point=ffffff)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefAli88&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAli88&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 ### 📫 Connect With Me
