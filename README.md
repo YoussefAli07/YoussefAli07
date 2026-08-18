@@ -16,9 +16,9 @@
 
 ### 📊 GitHub Analytics
 
-![Profile Views](https://komarev.com/ghpvc/?username=YoussefAli07&color=blueviolet&style=for-the-badge)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefAli07&show_icons=true&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YoussefAli07&theme=tokyonight&bg_color=1a1b26&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAli07&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoussefAli07&theme=tokyonight)
 
